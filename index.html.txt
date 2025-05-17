@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Teste de Automação com Make</title>
+</head>
+<body>
+  <h1>Teste de Automação com Make</h1>
+  <p>Este projeto está em fase de testes e utiliza a plataforma Make (antigo Integromat) para automatizar o envio de e-mails.</p>
+  <p>A automação é utilizada apenas para fins experimentais e educacionais, sem fins comerciais.</p>
+  <p>Em caso de dúvidas, entre em contato: vanessa@seudominio.com</p>
+</body>
+</html>
